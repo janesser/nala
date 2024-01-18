@@ -10,6 +10,15 @@
 	:local:
 	:backlinks: none
 
+# WIP
+=====
+
+apt managing a group of "similar" machines
+
+<https://github.com/lepe/scripts/blob/master/compare_ubuntu_apt.pl>
+
+bash prototype at `apt-sync.sh`
+
 # Nala
 ======
 
